@@ -1,4 +1,4 @@
-// Get your API_Key
+// Get your API_Key from "youtube data api key"
 
 export const API_KEY = "";
 
